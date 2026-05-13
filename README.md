@@ -579,7 +579,7 @@ AI platforms that conduct autonomous multi-step research, synthesize findings fr
 - [DeerFlow](https://github.com/bytedance/deer-flow) - Multi-agent research system from ByteDance with planning and execution loops for autonomous investigation (🏷️ `Python` `Open-Source` `Research`).
 - [Gemini Deep Research](https://blog.google/products-and-platforms/products/gemini/google-gemini-deep-research/) - Leverages Google Search and Knowledge Graph integration with 1M token context for breadth-first research (🏷️ `Cloud` `Google` `Web`).
 - [Perplexity Pro](https://www.perplexity.ai) - Provides real-time search answers with inline citations and follow-up threads for iterative research (🏷️ `Cloud` `Freemium` `Web`).
-- [Perplexity Personal Computer](https://www.perplexity.ai/pc) - Autonomous research agent with vision capabilities, real-time search integration, and document analysis for comprehensive research workflows (🏷️ `Cloud` `Research` `Consumer`).
+- Perplexity Personal Computer (link unavailable) - Autonomous research agent with vision capabilities, real-time search integration, and document analysis for comprehensive research workflows (🏷️ `Cloud` `Research` `Consumer`).
 
 ## Prompt-to-App Builders
 
@@ -612,7 +612,7 @@ All-in-one AI platforms providing access to agents, tools, and models through co
 | Grok       | 131K    | Real-time X data, Grok Build               |
 
 - [ChatGPT](https://openai.com/chatgpt) - General-purpose AI platform with GPTs, Deep Research, Canvas, and Agent Mode across the widest plugin ecosystem (🏷️ `Cloud` `OpenAI` `Web`).
-- [Claude](https://claude.com/product/overview) - Reasoning-focused AI with Computer Use, MCP integration, and Chrome browsing for coding and long document analysis (🏷️ `Cloud` `Anthropic` `Web`).
+- [Claude](https://claude.ai) - Reasoning-focused AI with Computer Use, MCP integration, and Chrome browsing for coding and long document analysis (🏷️ `Cloud` `Anthropic` `Web`).
 - [Coze](https://www.coze.com) - No-code agent builder with a marketplace of 100+ custom agents and plugin integrations (🏷️ `Cloud` `ByteDance` `Web`).
 - [Gemini](https://deepmind.google/models/gemini/) - Google's multimodal AI with 1M token context, Deep Think, Gems, and NotebookLM for workspace integration (🏷️ `Cloud` `Google` `Web`).
 - [Grok](https://x.ai/grok) - Real-time AI with live X data access, Grok Build for 8-agent parallel code generation, and image generation (🏷️ `Cloud` `xAI` `Web`).
