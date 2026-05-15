@@ -502,10 +502,9 @@ Tools for generating images, video, music, audio, and 3D assets using AI models.
 
 ### Content, Blogging and Newsletter Agents
 
-- [MisarBlog Writer Agent](https://www.misar.blog) - Autonomous AI writing agent that researches topics, generates SEO-optimized titles, creates cover images, and publishes complete blog posts on Misar.Blog via MCP server at https://misarblog-mcp--misar.run.tools (🏷️ `MCP` `Open-Source` `Freemium`).
-- [MisarBlog Growth Agent](https://www.misar.blog) - Data-driven blog analytics agent that analyzes performance, surfaces top content, identifies content gaps, and manages series strategy on Misar.Blog (🏷️ `MCP` `Analytics` `Freemium`).
 - [MisarBlog Community Agent](https://www.misar.blog) - Community management agent for Misar.Blog creators that monitors comments, reactions, and newsletter subscriber metrics (🏷️ `MCP` `Community` `Freemium`).
-
+- [MisarBlog Growth Agent](https://www.misar.blog) - Data-driven blog analytics agent that analyzes performance, surfaces top content, identifies content gaps, and manages series strategy on Misar.Blog (🏷️ `MCP` `Analytics` `Freemium`).
+- [MisarBlog Writer Agent](https://github.com/mrgulshanyadav/misarblog-mcp) - Autonomous AI writing agent that researches topics, generates SEO-optimized titles, creates cover images, and publishes complete blog posts on Misar.Blog via MCP server at https://misarblog-mcp--misar.run.tools (🏷️ `MCP` `Open-Source` `Freemium`).
 
 ## Customer Support and CRM Agents
 
