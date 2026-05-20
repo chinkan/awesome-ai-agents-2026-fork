@@ -14,7 +14,7 @@
 *The most comprehensive, structured guide to AI agent frameworks, tools, and resources.*  
 *Updated weekly. Compared side-by-side. Built for developers who ship.*
 
-**[Explore the Stack](#contents) • [Read the Docs](#contributing) • [Submit a Tool](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/issues)**
+**[Explore the Stack](#contents) • [Read the Docs](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/blob/main/Contributing.md) • [Submit a Tool](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/issues)**
 
 </div>
 
@@ -53,7 +53,6 @@
 - [Healthcare and Therapy Agents](#healthcare-and-therapy-agents)
 - [Newsletters and Communities](#newsletters-and-communities)
 - [Changelog](#changelog)
-- [Contributing](#contributing)
 - [Star History](#star-history)
 
 ## Orchestration Frameworks
@@ -309,16 +308,16 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 
 **Tools and frameworks focused on testing, debugging and evaluating agent workflows in production.**
 
-| Tool                    | Debugging | Testing | Eval | Latency | Notes                                                                |
-| ----------------------- | --------- | ------- | ---- | ------- | -------------------------------------------------------------------- |
-| agenttrace              | Advanced  | Basic   | ✓    | Local   | Session observability, tokens/cost/latency (see Safety Guardrails)   |
-| Inspect AI              | ✗         | ✓       | ✓    | API     | Composable evaluation framework (see Agent Evaluation)                |
-| Patronus AI LYNX        | ✓         | ✓       | ✓    | Cloud   | Hallucination detection for agent outputs                            |
-| Braintrust Evals        | Basic     | ✓       | ✓    | Cloud   | Eval-driven development and experiment tracking                      |
-| pytest-Agents           | ✗         | ✓       | ✗    | Local   | Pytest fixtures & runners for agent unit tests (local doc)           |
-| Agent Mutation Testing  | ✗         | ✓       | ✗    | Local   | Generates adversarial mutations to test agent robustness (local doc) |
-| Cortex Debugger         | ✓         | ✗       | ✗    | Local   | Step-through debugging primitives for agent workflows (local doc)    |
-| Agent Coverage Tools    | ✗         | ✓       | ✗    | Local   | Coverage analysis for agent branches and tool calls (local doc)      |
+| Tool                   | Debugging | Testing | Eval | Latency | Notes                                                              |
+| ---------------------- | --------- | ------- | ---- | ------- | ------------------------------------------------------------------ |
+| agenttrace             | Advanced  | Basic   | ✓    | Local   | Session observability, tokens/cost/latency (see Safety Guardrails) |
+| Inspect AI             | ✗         | ✓       | ✓    | API     | Composable evaluation framework (see Agent Evaluation)             |
+| Patronus AI LYNX       | ✓         | ✓       | ✓    | Cloud   | Hallucination detection for agent outputs                          |
+| Braintrust Evals       | Basic     | ✓       | ✓    | Cloud   | Eval-driven development and experiment tracking                    |
+| pytest-Agents          | ✗         | ✓       | ✗    | Local   | Pytest fixtures and runners for agent unit tests                   |
+| Agent Mutation Testing | ✗         | ✓       | ✗    | Local   | Generates adversarial mutations to test agent robustness           |
+| Cortex Debugger        | ✓         | ✗       | ✗    | Local   | Step-through debugging primitives for agent workflows              |
+| Agent Coverage Tools   | ✗         | ✓       | ✗    | Local   | Coverage analysis for agent branches and tool calls                |
 
 Notes: Several of these projects already appear elsewhere in this document (agenttrace, Inspect AI, Patronus). New local docs link to conceptual testing tools not yet listed elsewhere.
 
