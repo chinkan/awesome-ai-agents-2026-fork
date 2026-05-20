@@ -40,16 +40,16 @@ The agent explores multiple reasoning paths in parallel before committing. Each 
                     │   Problem    │
                     └──────┬───────┘
                            │
-          ┌────────────────┼────────────────┐
-          │                │                │
-     ┌────▼────┐      ┌────▼────┐      ┌────▼────┐
-     │ Path A  │      │ Path B  │      │ Path C  │
-     │ Score:7 │      │ Score:9 │      │ Score:4 │
-     └─────────┘      └────┬────┘      └─────────┘
-                           │  (selected)
-                    ┌──────▼───────┐
-                    │   Solution   │
-                    └──────────────┘
+           ┌────────────────┼────────────────┐
+           │                │                │
+      ┌────▼────┐      ┌────▼────┐      ┌────▼────┐
+      │ Path A  │      │ Path B  │      │ Path C  │
+      │ Score:7 │      │ Score:9 │      │ Score:4 │
+      └─────────┘      └────┬────┘      └─────────┘
+                            │  (selected)
+                     ┌──────▼───────┐
+                     │   Solution   │
+                     └──────────────┘
 ```
 
 ### 3. LATS (Language Agent Tree Search)
