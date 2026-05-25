@@ -20,6 +20,7 @@
 
 ## Contents
 
+- [AI Orchestrator](ai-orchestrator.md)
 - [Orchestration Frameworks](#orchestration-frameworks)
 - [Coding Agents](#coding-agents)
 - [Memory and Context](#memory-and-context)
@@ -54,6 +55,8 @@
 - [Newsletters and Communities](#newsletters-and-communities)
 - [Changelog](#changelog)
 - [Star History](#star-history)
+
+![ai-agent](header.png)
 
 ## Orchestration Frameworks
 
