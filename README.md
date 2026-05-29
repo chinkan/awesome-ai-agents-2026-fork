@@ -20,7 +20,6 @@
 
 ## Contents
 
-- [AI Orchestrator](ai-orchestrator.md)
 - [Orchestration Frameworks](#orchestration-frameworks)
 - [Coding Agents](#coding-agents)
 - [Memory and Context](#memory-and-context)
@@ -378,8 +377,6 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 - [Reflexion](https://github.com/noahshinn/reflexion) - Research framework letting agents learn from past mistakes via iterative verbal self-reflection loops (🏷️ `Paper` `Python` `Research`).
 - [Tree of Thoughts](https://github.com/princeton-nlp/tree-of-thought-llm) - Explores multiple parallel reasoning paths before committing to a final answer for complex problems (🏷️ `Paper` `Python` `Research`).
 
-> **Deep dives:** [patterns/react-pattern.md](patterns/react-pattern.md) • [patterns/plan-and-execute.md](patterns/plan-and-execute.md) • [patterns/reflection-loop.md](patterns/reflection-loop.md) • [patterns/multi-agent.md](patterns/multi-agent.md) • [workflows/multi-step-reasoning.md](workflows/multi-step-reasoning.md)
-
 ## Agent Communication
 
 Capabilities that let agents send messages, notifications, and reports across channels.
@@ -408,8 +405,6 @@ Frameworks for orchestrating data transformations and long-running agent-driven 
 - [Prefect](https://github.com/PrefectHQ/prefect) - Orchestrates agent workflows and data pipelines with retries, caching, and built-in observability (🏷️ `Python` `Pipeline` `Platform`).
 - [Signals CLI](https://signals.dev) - Intent signal CLI detecting LinkedIn engagers, keyword posters, and funding events with JSON output for agent pipelines (🏷️ `Cloud` `CLI` `Platform`).
 - [STORM](https://github.com/stanford-oval/storm) - Generates Wikipedia-style long-form articles by autonomously researching and synthesizing multiple sources (🏷️ `Python` `Stanford` `Research`).
-
-> **Deep dives:** [workflows/data-pipeline.md](workflows/data-pipeline.md) • [workflows/research-agent.md](workflows/research-agent.md)
 
 ## Secure Execution Environments
 
@@ -443,8 +438,6 @@ Infrastructure for running agent-generated code safely in isolated, sandboxed, o
 - [Kata Containers](https://github.com/kata-containers/kata-containers) - Combines VM-level security with the developer experience of containers using lightweight VMs (🏷️ `Go` `OCI` `Infrastructure`).
 - [Podman](https://github.com/containers/podman) - Daemonless, rootless container engine ideal for running untrusted agent-generated code securely (🏷️ `Go` `Rootless` `CLI`).
 - [Sysbox](https://github.com/nestybox/sysbox) - Enhanced container runtime that enables Docker-in-Docker securely for nested agent execution environments (🏷️ `Go` `Docker` `Infrastructure`).
-
-> **Deep dives:** [environments/sandboxes.md](environments/sandboxes.md) • [environments/vms.md](environments/vms.md) • [environments/containers.md](environments/containers.md) • [environments/serverless.md](environments/serverless.md)
 
 ## Creative AI Agents
 
