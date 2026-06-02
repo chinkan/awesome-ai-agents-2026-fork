@@ -157,6 +157,7 @@
 - [P2PCLAW](https://github.com/Agnuxo1/OpenCLAW-P2P) - Decentralized scientific research network with 14+ autonomous agents featuring P2P mesh, IPFS storage, and Lean 4 formal verification, self-hosted with Docker Compose (🏷️ `Python` `P2P` `Self-Hosted`).
 - [Swarm](https://github.com/openai/swarm) - Lightweight framework for agent handoffs, context variables, and function calling patterns from OpenAI (🏷️ `Python` `OpenAI` `SDK`).
 - [Swarms Framework](https://github.com/kyegomez/swarms) - Multi-agent orchestration for production use cases with scalability and reliability at its core (🏷️ `Python` `Production` `SDK`).
+- [Yao Agents](https://yaoagents.com) - Complete local AI execution platform with 30+ Experts, autonomous Robot orchestration via 5-stage Pipeline, API-based Robot-to-Robot calling, MCP support, and multi-channel messaging (🏷️ `Go` `TypeScript` `Docker` `MCP` `Self-Hosted` `WeChat` `Feishu`).
 
 ## Agent Communication Protocols
 
@@ -207,6 +208,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 Sandboxes, web scrapers, browser automation, and networking layers that agents depend on.
 
 - [AgentDock](https://github.com/agentdock/agentdock) - Framework for building and deploying production-ready AI agents with composable node architecture (🏷️ `Python` `Docker` `Platform`).
+- [codex-profiles](https://github.com/Ducksss/codex-profiles) - Bash CLI for switching OpenAI Codex CLI and Desktop profiles with isolated CODEX_HOME directories (🏷️ `Bash` `CLI` `Local`).
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - Extracts structured data from web pages using LLM-friendly output formats optimized for agent ingestion (🏷️ `Python` `Playwright` `SDK`).
 - [Docling](https://github.com/docling-project/docling) - Parses PDFs, DOCX, and slides into structured text with deep layout understanding for document agents (🏷️ `Python` `PDF` `SDK`).
 - [E2B](https://github.com/e2b-dev/e2b) - Cloud sandboxes for AI agents to run code securely in isolated environments (🏷️ `TypeScript` `Cloud` `Sandbox`).
@@ -221,6 +223,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python web-scraping library that uses LLMs to build intelligent scraping pipelines from natural-language instructions (🏷️ `Python` `LangChain` `SDK`).
 - [Surya](https://github.com/datalab-to/surya) - Runs OCR and layout detection on documents in 90+ languages for multilingual document agents (🏷️ `Python` `PDF` `CLI`).
 - [Tavily](https://github.com/tavily-ai/tavily-python) - Search API purpose-built for LLM agents providing real-time, accurate web data with source citations (🏷️ `Python` `Cloud` `API`).
+- [traceAI](https://github.com/future-agi/traceAI) - OpenTelemetry-native tracing for LLM and agent apps with 50+ framework integrations (🏷️ `Python` `TypeScript` `OpenTelemetry` `SDK`).
 - [Unstructured](https://github.com/Unstructured-IO/unstructured) - Ingests and preprocesses documents across 25+ file types for downstream LLM and agent pipelines (🏷️ `Python` `Pipeline` `SDK`).
 
 ## Low and No-Code Builders
@@ -248,6 +251,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Google Cloud Speech-to-Text v2](https://cloud.google.com/speech-to-text) - Google Cloud streaming and batch speech recognition API v2 with improved accuracy, streaming, and noise suppression for real-time agent pipelines (🏷️ `Cloud` `Google` `STT`).
 - [Pipecat](https://github.com/pipecat-ai/pipecat) - Production-grade voice AI framework with sub-250ms latency, WebRTC support, multimodal (voice+vision+text), real-time streaming, and 70+ language support (🏷️ `Python` `WebRTC` `SDK`).
 - [Rasa](https://github.com/RasaHQ/rasa) - Open-source conversational AI framework with self-hosted NLU training and dialogue management (🏷️ `Python` `NLU` `SDK`).
+- [simulate-sdk](https://github.com/future-agi/simulate-sdk) - Persona- and scenario-driven SDK for simulating voice and text AI agents (🏷️ `Python` `Voice` `Simulation` `SDK`).
 - [Vapi](https://github.com/VapiAI/server-sdk-python) - Platform for building voice AI agents with low-latency speech-to-speech capabilities (🏷️ `Python` `Cloud` `API`).
 - [Vocode](https://github.com/vocodedev/vocode-core) - Open-source framework for building voice-based LLM agent applications with streaming support (🏷️ `Python` `Voice` `SDK`).
 - [Wispr Flow](https://wisprflow.ai/) - Voice orchestration platform for multimodal AI agents with 50+ language support, workflow building, and enterprise integrations (🏷️ `Cloud` `Voice` `Platform` `[Enterprise]`).
@@ -276,6 +280,8 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - Modules for agent runtime security, self-audit trails, and collective cognition patterns (🏷️ `Python` `Security` `SDK`).
 - [OWASP Top 10 for Agentic Apps](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - Security framework covering goal hijacking, tool misuse, and cascading failure mitigations for agents (🏷️ `Policy` `Security` `Framework`).
 - [Rebuff](https://github.com/protectai/rebuff) - Self-hardening prompt injection detection system for securing agent inputs against adversarial attacks (🏷️ `Python` `Security` `SDK`).
+- [ai-evaluation](https://github.com/future-agi/ai-evaluation) - LLM evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners (jailbreak, PII, injection) (🏷️ `Python` `Evaluation` `Guardrails` `SDK`).
+- [Future AGI](https://github.com/future-agi/future-agi) - Self-hostable end-to-end agent engineering platform with tracing, evals, guardrails, and gateway (🏷️ `Python` `Platform` `Self-hosted`).
 
 ## Agent Interfaces and UIs
 
@@ -388,6 +394,7 @@ Capabilities that let agents send messages, notifications, and reports across ch
 - [Ntfy](https://github.com/binwiederhier/ntfy) - Pushes real-time agent notifications to phones and desktops via a dead-simple HTTP API (🏷️ `Go` `Self-hosted` `API`).
 - [Resend](https://github.com/resend/resend-node) - Sends transactional emails from agent workflows with a clean, developer-first API (🏷️ `TypeScript` `Cloud` `API`).
 - [Slack Bolt](https://github.com/slackapi/bolt-python) - Enables agents to send, receive, and react to Slack messages with event-driven listeners (🏷️ `Python` `Slack` `SDK`).
+- [The Colony](https://thecolony.cc) - Provides an agent-only social network with a REST API, MCP server, and A2A agent-card so agents can post, comment, and DM each other autonomously (🏷️ `Cloud` `MCP` `API` `Platform`).
 - [Twilio](https://github.com/twilio/twilio-python) - Sends SMS and voice calls from agent workflows to any phone number worldwide (🏷️ `Python` `Cloud` `API`).
 
 ## Data Pipeline and Workflow
@@ -714,6 +721,7 @@ Tools for running LLMs locally and self-hosting AI agent platforms with full pri
 - [LocalAI](https://github.com/mudler/LocalAI) - Drop-in OpenAI API replacement that runs models locally without requiring a GPU (🏷️ `Go` `Docker` `Local`).
 - [Ollama](https://github.com/ollama/ollama) - Run LLMs locally with a dead-simple CLI interface and 162K+ GitHub stars (🏷️ `Go` `CLI` `Local`).
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput LLM serving engine with PagedAttention for production-grade local inference (🏷️ `Python` `CUDA` `Local`).
+- [Yao Agents](https://github.com/YaoApp/yao) - Local-first AI execution platform with Docker sandbox isolation, BYOK model configuration, MCP support, 5-stage Pipeline, and multi-platform messaging via WeChat, Feishu, DingTalk, Telegram, and Discord (🏷️ `Go` `TypeScript` `Docker` `Desktop` `Self-Hosted`).
 
 ## AI Governance and Compliance
 
@@ -725,7 +733,8 @@ Frameworks and tools for AI risk management, regulatory compliance, and governan
 - [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic receipts for AI agent actions with two Ed25519 signatures per action, hash-chained for tamper-evident audit trails (🏷️ `TypeScript` `Security` `Cryptography`).
 - [NIST AI RMF](https://airc.nist.gov/) - US framework for AI risk management covering Govern, Map, Measure, and Manage functions (🏷️ `Policy` `Framework` `US`).
 - [OneTrust AI Governance](https://www.onetrust.com/solutions/ai-governance/) - Risk classification, consent management, and compliance workflows for AI agent deployments (🏷️ `Cloud` `Compliance` `Platform`).
-
+- [Project Glasswing](https://example.com/project-glasswing) - Industry consortium (11-company initiative) focused on AI safety, red-teaming, and shared benchmarks for agent risk mitigation (🏷️ `Consortium` `Safety` `Research`).
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Open-source, browser-based AI compliance utilities including an EU AI Act Article 50 content disclosure generator, AI robots.txt generator for crawler governance, and AI cost calculator with no signup required (🏷️ `Web` `Compliance`).
 
 ## Cybersecurity Agents
 
