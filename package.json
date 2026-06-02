@@ -1,0 +1,8 @@
+{
+  "name": "awesome-ai-agents-2026",
+  "version": "1.0.0",
+  "description": "A collection of awesome AI agents",
+  "devDependencies": {
+    "awesome-lint": "^0.24.0"
+  }
+}
