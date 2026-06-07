@@ -389,7 +389,7 @@ The original external references used while drafting this document are listed be
 - Multi-agent reference architecture: https://docs.cloud.google.com/architecture/multiagent-ai-system
 - ADK sequential agents: https://adk.dev/agents/workflow-agents/sequential-agents/
 - ADK parallel agents: https://adk.dev/agents/workflow-agents/parallel-agents/
-- ADK loop agents: https://adk.dev/agents/workflow-agents/loop-agents
+- ADK loop agents: https://adk.dev/agents/workflow-agents/loop-agents/
 - ReAct paper: https://arxiv.org/abs/2210.03629
 
 the output meets a predefined quality threshold or it reaches a maximum number of
