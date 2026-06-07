@@ -387,9 +387,9 @@ The original external references used while drafting this document are listed be
 - Compare design patterns: https://docs.cloud.google.com/architecture/choose-design-pattern-agentic-ai-system#compare-design-patterns
 - Choose models & infra: https://docs.cloud.google.com/docs/generative-ai/choose-models-infra-for-ai
 - Multi-agent reference architecture: https://docs.cloud.google.com/architecture/multiagent-ai-system
-- ADK sequential agents: https://google.github.io/adk-docs/agents/workflow-agents/sequential-agents/
-- ADK parallel agents: https://google.github.io/adk-docs/agents/workflow-agents/parallel-agents/
-- ADK loop agents: https://google.github.io/adk-docs/agents/workflow-agents/loop-agents
+- ADK sequential agents: https://adk.dev/agents/workflow-agents/sequential-agents/
+- ADK parallel agents: https://adk.dev/agents/workflow-agents/parallel-agents/
+- ADK loop agents: https://adk.dev/agents/workflow-agents/loop-agents
 - ReAct paper: https://arxiv.org/abs/2210.03629
 
 the output meets a predefined quality threshold or it reaches a maximum number of

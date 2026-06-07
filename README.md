@@ -86,7 +86,7 @@
 - [PydanticAI](https://github.com/pydantic/pydantic-ai) - Type-safe agent framework from the Pydantic team with a FastAPI-style developer experience (🏷️ `Python` `Pydantic` `SDK`).
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - Microsoft enterprise SDK for Python, C#, and Java with modular plugins, memory, and goal planning (🏷️ `C#` `Microsoft` `SDK`).
 - [Smolagents](https://github.com/huggingface/smolagents) - Hugging Face code-first framework where agents write and execute Python instead of JSON tool calls (🏷️ `Python` `Hugging Face` `SDK`).
-- [Strands Agents SDK](https://github.com/strands-agents/sdk-python) - AWS model-driven agent SDK with native Bedrock integration (🏷️ `Python` `AWS Bedrock` `SDK`).
+- [Strands Agents SDK](https://github.com/strands-agents/harness-sdk) - AWS model-driven agent SDK with native Bedrock integration (🏷️ `Python` `AWS Bedrock` `SDK`).
 - [Upsonic](https://github.com/Upsonic/Upsonic) - Minimalist agent framework with MCP support and rapid setup for quick prototyping (🏷️ `Python` `MCP` `SDK`).
 - [Vercel AI SDK](https://github.com/vercel/ai) - Streaming-first primitives for AI UIs with React Server Components and edge runtime support (🏷️ `TypeScript` `Next.js` `SDK`).
 - [VoltAgent](https://github.com/voltagent/voltagent) - TypeScript agent framework with built-in observability and a self-improving context engine (🏷️ `TypeScript` `React` `SDK`).
@@ -124,7 +124,7 @@
 - [SWE-agent](https://github.com/SWE-agent/SWE-agent) - Takes a GitHub issue and tries to automatically fix it. Also used for cybersecurity and competitive coding (🏷️ `Python` `Docker` `CLI`).
 - [Tabnine](https://www.tabnine.com) - Privacy-first AI code completion with on-premise deployment and codebase fine-tuning options (🏷️ `TypeScript` `Enterprise` `IDE`).
 - [TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework from Microsoft for seamlessly planning and executing data analytics tasks (🏷️ `Python` `Jupyter` `CLI`).
-- [Windsurf](https://windsurf.com) - AI-native IDE with Cascade agent for multi-step autonomous tasks and team workflows (🏷️ `TypeScript` `Electron` `Desktop`).
+- [Windsurf](https://devin.ai/desktop) - AI-native IDE with Cascade agent for multi-step autonomous tasks and team workflows (🏷️ `TypeScript` `Electron` `Desktop`).
 
 ## Memory and Context
 
@@ -304,7 +304,7 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 - [Groq Cloud](https://groq.com) - Ultra-fast LPU-based LLM inference for Mixtral, Llama, and Gemma with a free API tier (🏷️ `Cloud` `Inference` `API`).
 - [Modal](https://github.com/modal-labs/modal-client) - Serverless GPU compute purpose-built for AI workloads with fast cold starts and Python-native deployment (🏷️ `Python` `Serverless` `Cloud`).
 - [Northflank](https://northflank.com/) - Full-stack platform with GPU orchestration, Git-based CI/CD, and bring-your-own-cloud support (🏷️ `Kubernetes` `Cloud` `Platform`).
-- [Railway](https://railway.app/) - One-click deploy from GitHub with persistent volumes and databases for stateful agent deployments (🏷️ `Nix` `Cloud` `Platform`).
+- [Railway](https://railway.com/) - One-click deploy from GitHub with persistent volumes and databases for stateful agent deployments (🏷️ `Nix` `Cloud` `Platform`).
 - [Together AI](https://www.together.ai) - Inference API hosting 200+ open models with fast generation and a free tier for developers (🏷️ `Cloud` `Inference` `API`).
 - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Background job platform with cron, webhook, and event triggers purpose-built for long-running agent tasks (🏷️ `TypeScript` `Serverless` `Cloud`).
 
@@ -348,7 +348,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 ### Healthcare
 
 - Epic AI Assistant (https://www.epic.com) - Clinical documentation and workflow agents integrated with Epic HER (🏷️ `Cloud` `Healthcare` `Enterprise`).
-- [Nuance Healthcare AI](https://www.nuance.com/healthcare.html) - Speech and clinical AI solutions for documentation and radiology (🏷️ `Cloud` `Healthcare` `Enterprise` `[HIPAA]`).
+- [Nuance Healthcare AI](https://www.microsoft.com/en-us/health-solutions) - Speech and clinical AI solutions for documentation and radiology (🏷️ `Cloud` `Healthcare` `Enterprise` `[HIPAA]`).
 - [Tempus AI](https://www.tempus.com) - Oncology research and clinical decision support agents (🏷️ `Cloud` `Healthcare` `Research`).
 
 ### Legal
@@ -374,7 +374,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 - [AI Engineering by Chip Huyen](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) - Comprehensive guide on AI systems design and deployment covering agent architecture patterns (🏷️ `Book` `O'Reilly` `Print`).
 - [Anthropic Cookbook](https://github.com/anthropics/claude-cookbooks) - Collection of Claude agent recipes and integration patterns from Anthropic (🏷️ `Guide` `Anthropic` `GitHub`).
 - [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) - Anthropic's guide on agent design patterns, evaluation strategies, and production best practices (🏷️ `Guide` `Anthropic` `Web`).
-- [Google ADK Documentation](https://google.github.io/adk-docs/) - Official documentation for Google Agent Development Kit with tutorials and best practices (🏷️ `Guide` `Google` `Web`).
+- [Google ADK Documentation](https://adk.dev/) - Official documentation for Google Agent Development Kit with tutorials and best practices (🏷️ `Guide` `Google` `Web`).
 - [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) - Open-source course on building AI agents using Hugging Face tools and models (🏷️ `Course` `HuggingFace` `Web`).
 - [LATS: Language Agent Tree Search](https://github.com/lapisrocks/LanguageAgentTreeSearch) - Combines Monte Carlo tree search with LLM reasoning for complex multi-step planning tasks (🏷️ `Paper` `Python` `Research`).
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) - Deep breakdown of LLM-powered agent components: planning, memory, and tool use (🏷️ `Blog` `Weng` `Web`).
@@ -445,7 +445,7 @@ Infrastructure for running agent-generated code safely in isolated, sandboxed, o
 - [Google Cloud Run](https://github.com/GoogleCloudPlatform/cloud-run-samples) - Fully managed serverless platform with gVisor isolation for running stateless agent containers at scale (🏷️ `Python` `GCP` `Serverless`).
 - [gVisor](https://github.com/google/gvisor) - User-space kernel that intercepts syscalls to provide VM-level security with container-level overhead (🏷️ `Go` `Google` `Infrastructure`).
 - [Kata Containers](https://github.com/kata-containers/kata-containers) - Combines VM-level security with the developer experience of containers using lightweight VMs (🏷️ `Go` `OCI` `Infrastructure`).
-- [Podman](https://github.com/containers/podman) - Daemonless, rootless container engine ideal for running untrusted agent-generated code securely (🏷️ `Go` `Rootless` `CLI`).
+- [Podman](https://github.com/podman-container-tools/podman) - Daemonless, rootless container engine ideal for running untrusted agent-generated code securely (🏷️ `Go` `Rootless` `CLI`).
 - [Sysbox](https://github.com/nestybox/sysbox) - Enhanced container runtime that enables Docker-in-Docker securely for nested agent execution environments (🏷️ `Go` `Docker` `Infrastructure`).
 
 ## Creative AI Agents
@@ -562,7 +562,7 @@ Platforms for building, deploying, and scaling voice-based AI agents across call
 | PolyAI     | Low     | Yes   | Enterprise scale         |
 
 - [AssemblyAI](https://www.assemblyai.com) - Speech-to-text API with speaker diarization, sentiment analysis, and summarization for voice agent pipelines (🏷️ `Cloud` `STT` `API`).
-- [Bland AI](https://bland.ai/) - Automates outbound phone calls at scale with SOC2 and HIPAA compliance and CRM integration (🏷️ `Cloud` `Telephony` `API`).
+- [Bland AI](https://www.bland.ai/) - Automates outbound phone calls at scale with SOC2 and HIPAA compliance and CRM integration (🏷️ `Cloud` `Telephony` `API`).
 - [Deepgram](https://deepgram.com) - Sub-300ms speech-to-text and text-to-speech APIs purpose-built for real-time voice agent pipelines (🏷️ `Cloud` `STT/TTS` `API`).
 - [ElevenLabs](https://elevenlabs.io) - Industry-leading voice AI with 75ms latency, Conversational AI 2.0, RAG, and HIPAA compliance (🏷️ `Cloud` `Voice` `Platform`).
 - [HeyGen](https://www.heygen.com) - Creates AI talking avatars with voice cloning and lip-sync for video-based agent interactions (🏷️ `Cloud` `Avatar` `Web`).
@@ -628,7 +628,7 @@ All-in-one AI platforms providing access to agents, tools, and models through co
 - [Grok](https://x.ai/grok) - Real-time AI with live X data access, Grok Build for 8-agent parallel code generation, and image generation (🏷️ `Cloud` `xAI` `Web`).
 - [Meta AI](https://meta.ai) - Llama-powered AI integrated across WhatsApp, Messenger, and Instagram for conversational assistance (🏷️ `Cloud` `Meta` `Web`).
 - [Microsoft Copilot](https://copilot.microsoft.com) - AI assistant integrated into Office 365, Teams, and Power Platform for enterprise productivity workflows (🏷️ `Cloud` `Microsoft` `Web`).
-- [Sistava](https://sistava.com) - AI agent orchestration platform for deploying multi-channel agents across messaging, voice, and APIs with full Computer Use capabilities on your own OS (🏷️ `Cloud` `Sistava` `Web`).
+- [Sistava](https://sistava.com/en/) - AI agent orchestration platform for deploying multi-channel agents across messaging, voice, and APIs with full Computer Use capabilities on your own OS (🏷️ `Cloud` `Sistava` `Web`).
 
 ## Open-Source Models for Agents
 
@@ -650,7 +650,7 @@ Open-weight LLMs optimized for agentic tasks including tool use, planning, multi
 - [GLM-4](https://github.com/zai-org/GLM-4) - Zhipu AI's 744B MoE model achieving the lowest hallucination rate and 77.8% on SWE-bench (🏷️ `Python` `Open-Source` `Local`).
 - [InternLM 3](https://github.com/InternLM/InternLM) - Shanghai AI Lab model with strong long-context reasoning capabilities for complex agent tasks (🏷️ `Python` `Open-Source` `Local`).
 - [Llama 4](https://github.com/meta-llama/llama-models) - Meta's flagship open model family with Scout and Maverick variants and strong tool use capabilities (🏷️ `Python` `Meta` `Local`).
-- [Mistral Large 2](https://mistral.ai/models) - Leading European open model at 123B parameters with strong function calling for agent workflows (🏷️ `Python` `Mistral` `API`).
+- [Mistral Large 2](https://mistral.ai/models/) - Leading European open model at 123B parameters with strong function calling for agent workflows (🏷️ `Python` `Mistral` `API`).
 - [Phi-4](https://huggingface.co/microsoft/phi-4) - Microsoft's compact 14B parameter model delivering strong reasoning for on-device and edge agent deployments (🏷️ `Python` `Microsoft` `Local`).
 - [Qwen 3](https://github.com/QwenLM/Qwen3) - MCP-native multilingual model family from Alibaba with thinking mode across 0.6B to 235B sizes (🏷️ `Python` `Alibaba` `Local`).
 - [Qwen 3.6-Plus](https://qwenlm.github.io/blog/qwen3/) - Agentic-focused model with 1M context window, repo-level coding, and MCP-native tool use (🏷️ `Python` `Alibaba` `Local`).
@@ -736,8 +736,7 @@ Frameworks and tools for AI risk management, regulatory compliance, and governan
 - [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic receipts for AI agent actions with two Ed25519 signatures per action, hash-chained for tamper-evident audit trails (🏷️ `TypeScript` `Security` `Cryptography`).
 - [NIST AI RMF](https://airc.nist.gov/) - US framework for AI risk management covering Govern, Map, Measure, and Manage functions (🏷️ `Policy` `Framework` `US`).
 - [OneTrust AI Governance](https://www.onetrust.com/solutions/ai-governance/) - Risk classification, consent management, and compliance workflows for AI agent deployments (🏷️ `Cloud` `Compliance` `Platform`).
-- [Project Glasswing](https://example.com/project-glasswing) - Industry consortium (11-company initiative) focused on AI safety, red-teaming, and shared benchmarks for agent risk mitigation (🏷️ `Consortium` `Safety` `Research`).
-- [TinyTools](https://tinytools-smoky.vercel.app/) - Open-source, browser-based AI compliance utilities including an EU AI Act Article 50 content disclosure generator, AI robots.txt generator for crawler governance, and AI cost calculator with no signup required (🏷️ `Web` `Compliance`).
+- [Project Glasswing](https://www.anthropic.com/news/project-glasswing) - Industry consortium (11-company initiative) focused on AI safety, red-teaming, and shared benchmarks for agent risk mitigation (🏷️ `Consortium` `Safety` `Research`).
 
 ## Cybersecurity Agents
 
