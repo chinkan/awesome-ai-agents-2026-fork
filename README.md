@@ -90,7 +90,7 @@
 - [Upsonic](https://github.com/Upsonic/Upsonic) - Minimalist agent framework with MCP support and rapid setup for quick prototyping (🏷️ `Python` `MCP` `SDK`).
 - [Vercel AI SDK](https://github.com/vercel/ai) - Streaming-first primitives for AI UIs with React Server Components and edge runtime support (🏷️ `TypeScript` `Next.js` `SDK`).
 - [VoltAgent](https://github.com/voltagent/voltagent) - TypeScript agent framework with built-in observability and a self-improving context engine (🏷️ `TypeScript` `React` `SDK`).
-- [Vertex AI Agents](https://adk.dev/) - Google Cloud enterprise agent framework with native Gemini integration, scalable infrastructure, and compliance certifications (🏷️ `Python` `Google` `Cloud` `[Enterprise]` `[GDPR]`).
+- [Vertex AI Agents](https://docs.cloud.google.com/agent-builder) - Google Cloud enterprise agent framework with native Gemini integration, scalable infrastructure, and compliance certifications (🏷️ `Python` `Google` `Cloud` `[Enterprise]` `[GDPR]`).
 
 ![framework-flow](img/frame-work-flow.png)
 
