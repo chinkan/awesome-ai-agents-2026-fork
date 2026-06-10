@@ -134,6 +134,7 @@
 - [Memoir](https://github.com/zhangfengcdt/memoir) - Git-like versioned semantic memory for AI agents with branching, commits, and cryptographic integrity over hierarchical paths (🏷️ `Python` `Git-like` `SDK`).
 - [Memvid](https://github.com/memvid/memvid) - Replace complex RAG pipelines with a serverless, single-file memory layer for instant retrieval (🏷️ `Python` `Multimodal` `SDK`).
 - [Milvus](https://github.com/milvus-io/milvus) - Scales vector search to billions of embeddings for large-scale agent knowledge bases (🏷️ `Go` `Python` `Platform`).
+- [Mori (森)](https://github.com/fjwood69/mori) - Sovereign shared memory layer for AI coding agents with zero-instrumentation capture via lifecycle hooks, a dream pipeline that distills sessions into curated governed memories, and support for Claude Code, Cursor, Codex, and Antigravity (🏷️ `Python` `MCP` `Self-Hosted` `Governance` `Sovereign`).
 - [Motorhead](https://github.com/getmetal/motorhead) - Manages conversation context windows for agents with automatic background summarization (🏷️ `Rust` `Python` `SDK`).
 - [Pathway](https://github.com/pathwaycom/pathway) - Live data RAG engine with real-time streaming for agents that need up-to-the-second knowledge (🏷️ `Python` `Streaming` `SDK`).
 - [Pinecone](https://www.pinecone.io) - Managed vector database with agent namespaces for multi-tenant isolation, hybrid search (vector + keyword), serverless auto-scaling, and $11B valuation (🏷️ `Cloud` `Vector DB` `API` `[Enterprise]` `[SOC2]`).
