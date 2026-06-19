@@ -8,7 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/awesome-ai-agents-2026?style=social)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/stargazers)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 [![Last Commit](https://img.shields.io/github/last-commit/ARUNAGIRINATHAN-K/awesome-ai-agents-2026)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/commits/main)
-[![Tools Listed](https://img.shields.io/badge/tools_listed-470%2B-blue?style=flat-square)]()
+[![Tools Listed](https://img.shields.io/badge/tools_listed-470%2B-blue?style=flat-square)]
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](LICENSE)
 
 *The most comprehensive, structured guide to AI agent frameworks, tools, and resources.*  
@@ -455,14 +455,14 @@ Tools for generating images, video, music, audio, and 3D assets using AI models.
 
 ### Image Generation
 
-| Generator          | Strength                   | Open Source | Pricing       |
-| ------------------ | -------------------------- | ----------- | ------------- |
-| Midjourney v7      | Artistic quality           | No          | $10-120/mo    |
-| FLUX 2             | Photorealism               | Yes         | Free / API    |
-| Stable Diffusion   | Full control               | Yes         | Free (OSS)    |
-| Ideogram v3        | Text rendering             | No          | Free / $7+/mo |
-| Google Imagen 4    | Highest fidelity           | No          | API           |
-| Seedream AI Studio | Multi-model (5.0/4.5/4.0)  | No          | Free / Paid   |
+| Generator           | Strength                  | Open Source | Pricing        |
+| ------------------- | ------------------------- | ----------- | -------------- |
+| Midjourney v7       | Artistic quality          | No          | $10-120/mo     |
+| FLUX 2              | Photorealism              | Yes         | Free / API     |
+| Stable Diffusion    | Full control              | Yes         | Free (OSS)     |
+| Ideogram v3         | Text rendering            | No          | Free / $7+/mo  |
+| Google Imagen 4     | Highest fidelity          | No          | API            |
+| Seedream AI Studio  | Multi-model (5.0/4.5/4.0) | No          | Free / Paid    |
 
 - [Adobe Firefly 3](https://firefly.adobe.com) - Generates commercially safe images from text prompts using a model trained exclusively on licensed data (🏷️ `Cloud` `Adobe CC` `Web`).
 - [DALL-E 3.5](https://openai.com/dall-e-3) - Generates detailed images from text prompts with 95% text accuracy integrated directly into ChatGPT (🏷️ `Cloud` `OpenAI` `API`).
