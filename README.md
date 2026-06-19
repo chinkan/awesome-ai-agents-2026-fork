@@ -182,6 +182,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [MCP Registry](https://github.com/modelcontextprotocol) - Official Model Context Protocol specification and server implementations for standardized tool access (🏷️ `JSON` `Standard` `Registry`).
 - [mcp-nest](https://github.com/CharanBharathula/mcp-nest) - Unified Model Context Protocol (MCP) server for executing code and managing files (🏷️ `Python` `MCP` `CLI`).
 - [NotFair](https://notfair.co) - Hosted Google Ads MCP server for diagnosing, optimizing, and executing campaign changes via the Google Ads API with a human-approval gate (🏷️ `Cloud` `MCP` `Marketing`).
+- [NotFair Skills](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, connecting to live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP (🏷️ `TypeScript` `MCP` `Claude Code`).
 - [Toolhouse](https://toolhouse.ai) - Cloud-hosted tool infrastructure for agents with optimized execution and low-latency access (🏷️ `Python` `Cloud` `API`).
 - [Zapier MCP Server](https://zapier.com/mcp) - Connect agents to 7,000+ app integrations via MCP, powered by Zapier's automation platform (🏷️ `Cloud` `Zapier` `API`).
 - [zero-api-key-web-search](https://github.com/wd041216-bit/zero-api-key-web-search) - Free web search toolkit for AI agents with no API keys, MCP server support (🏷️ `Python` `MCP` `Search`).
@@ -773,6 +774,7 @@ AI agents for mental health support, cognitive training, and therapy-adjacent ap
 Curated newsletters, podcasts, and communities for staying current with AI agent development.
 
 - [AI Engineering Newsletter](https://www.latent.space) - AI engineering podcast and newsletter by Swyx and Alessio covering agent architectures and tooling (🏷️ `Newsletter` `Podcast` `Web`).
+- [AiToolsObserver](https://aitoolsobserver.com) - AI discovery and intelligence platform covering AI agents, ecosystem trends, comparisons, and practical use cases (🏷️ `Directory` `News` `Web`).
 - [aibtc.news](https://aibtc.news) - Bitcoin-focused agent news platform with bounties and classifieds for the agent economy (🏷️ `Newsletter` `Bitcoin` `Web`).
 - [Awesome Agents Newsletter](https://awesomeagents.substack.com) - Weekly curated tools and reviews covering the latest in AI agent development (🏷️ `Newsletter` `Weekly` `Web`).
 - [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/) - Reddit community for Claude users sharing agent workflows, prompts, and integration patterns (🏷️ `Community` `Reddit` `Forum`).
