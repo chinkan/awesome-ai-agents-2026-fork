@@ -772,6 +772,7 @@ AI agents for mental health support, cognitive training, and therapy-adjacent ap
 Curated newsletters, podcasts, and communities for staying current with AI agent development.
 
 - [AI Engineering Newsletter](https://www.latent.space) - AI engineering podcast and newsletter by Swyx and Alessio covering agent architectures and tooling (🏷️ `Newsletter` `Podcast` `Web`).
+- [AiToolsObserver](https://aitoolsobserver.com) - AI discovery and intelligence platform covering AI agents, ecosystem trends, comparisons, and practical use cases (🏷️ `Directory` `News` `Web`).
 - [aibtc.news](https://aibtc.news) - Bitcoin-focused agent news platform with bounties and classifieds for the agent economy (🏷️ `Newsletter` `Bitcoin` `Web`).
 - [Awesome Agents Newsletter](https://awesomeagents.substack.com) - Weekly curated tools and reviews covering the latest in AI agent development (🏷️ `Newsletter` `Weekly` `Web`).
 - [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/) - Reddit community for Claude users sharing agent workflows, prompts, and integration patterns (🏷️ `Community` `Reddit` `Forum`).
