@@ -270,6 +270,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails) - Pre-action authorization plugin for agent frameworks with policy-based access control (🏷️ `Python` `Authorization` `SDK`).
 - [Patronus AI LYNX](https://patronus.ai/) - Hallucination detection system beating GPT-4 baselines, with specialized testing for agent outputs and LLM-generated content quality (🏷️ `Cloud` `Testing` `SDK`).
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) - Open-source observability platform built on OpenTelemetry for tracing, evaluating, and debugging AI agents (🏷️ `Python` `OpenTelemetry` `Platform`).
+- [ax](https://github.com/Necmttn/ax) - Local-first telemetry graph for coding agents with read-only MCP queries for sessions, tool calls, skills, costs, and dispatch routing (🏷️ `TypeScript` `MCP` `Observability` `Local`).
 - [Braintrust](https://www.braintrust.dev) - Eval-driven development platform with experiment tracking and prompt optimization for agent quality (🏷️ `TypeScript` `Evaluation` `Platform`).
 - [ElevenAgents](https://elevenlabs.io/agents) - Voice agent platform from ElevenLabs for customer support automation with HIPAA compliance and multi-language support (🏷️ `Cloud` `Voice` `Platform` `[HIPAA]` `[Enterprise]`).
 - [DriftGuard](https://github.com/sujal-maheshwari2004/DriftGuard) - Semantic memory guardrails using causal graphs to prevent agents from repeating past failures (🏷️ `Python` `Memory` `SDK`).
